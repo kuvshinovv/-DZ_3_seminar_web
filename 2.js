@@ -12,4 +12,3 @@ function PrintHello(param)
     console.log(`Привет ${param}!!!`); 
 } 
 
-
